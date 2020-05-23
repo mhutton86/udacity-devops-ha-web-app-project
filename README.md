@@ -1,5 +1,6 @@
 # Udacity High-Availability CloudFormation Environment Project
 This README.md is for my submission of the Udacity: Cloud DevOps Engineering "High-Availability" project.
+This submission contains AWS CloudFormation templates and scripts used for create/deleting the defined template stacks.
 
 ## Instructions
 For spinning up this environment, perform the following:
