@@ -1,7 +1,8 @@
-# udacity-devops-ha-web-app-project
+# Udacity High-Availability CloudFormation Environment Project
+This README.md is for my submission of the Udacity: Cloud DevOps Engineering "High-Availability" project.
 
 ## Instructions
-For spinning up this project, perform the following:
+For spinning up this environment, perform the following:
 
 1. Create the networking infrastructure stack
     1. `./create.sh "udagram-infra" webapp-infra.yaml infra-params.json`
@@ -11,3 +12,9 @@ For spinning up this project, perform the following:
     1. `./create.sh "udagram-servers" webapp-ha-servers.yaml ha-servers-params.json`
 1. Once the "udagram-servers" stack create is completed, look at the "udagram-servers"'s "LoadBalancerUrl" Output for
 the load balancer URL for loading the pages. 
+
+## Contribution
+This was a personal project submission, therefore I don't expect outside contributions.
+
+## License
+There is no license for this. Use at your own risk.
